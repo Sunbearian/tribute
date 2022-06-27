@@ -1,0 +1,49 @@
+#main {
+    font-family: Verdana, arial;
+    text-align: center;
+    font-size: 1.1em;
+    border-radius: 10px;
+    background: LightGray;
+  }
+  
+  img {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-size: 0.9em;
+  }
+  
+  #title {
+    text-align: center;
+    color: DarkOliveGreen;
+    padding: 15px;
+  }
+  
+  section {
+    display: inline-block;
+  }
+  
+  ul {
+    list-style-position: inside;
+    text-align: left;
+    line-height: 2;
+    max-width: 800px;
+  }
+  
+  strong {
+    color: DarkOliveGreen;
+  }
+  
+  h2 {
+    color: DarkOliveGreen;
+  }
+  
+  h3 {
+    padding: 15px;
+  }
